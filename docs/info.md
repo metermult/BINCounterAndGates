@@ -25,3 +25,7 @@ Flip through gates for representation of logic elements. For the binary counter 
 555 Timer configured for 1HZ oscillation, A dip switch (2 SPQT would be nice TBF for the Input pins but a 8 pos SPST switch will do), 12 LED's, 12 resistors, the oscillator switch, and the step pushbutton. 
 
 Thank you tiny tapeout for this opportunity. It has been very cool building this and I look forward to making more TT IC's in the future. 
+
+## Update 
+
+Build was good. Here is an image of the 2d model. 
