@@ -29,3 +29,6 @@ Thank you tiny tapeout for this opportunity. It has been very cool building this
 ## Update 
 
 Build was good. Here is an image of the 2d model. 
+
+![image](https://github.com/user-attachments/assets/429436cf-d1ab-4216-8e95-f483923d498f)
+
